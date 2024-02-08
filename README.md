@@ -1,3 +1,4 @@
 # learning
-this is my first repo.
+This is My first Git Repo
+<br> 
 Author-Gaurav Singh
